@@ -1,0 +1,10 @@
+.container-fluid{
+  background-color: var( --ColorMain);
+}
+
+p{
+  font-size: small;
+}
+a{
+  font-size: small;
+}
